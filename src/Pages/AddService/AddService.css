@@ -1,0 +1,11 @@
+.add_service form {
+   display: flex;
+   flex-direction: column;
+   width: 60%;
+   margin: 0 auto;
+   padding: 6px 12px;
+}
+.add_service form input,
+.add_service form textarea {
+   margin-bottom: 10px;
+}
